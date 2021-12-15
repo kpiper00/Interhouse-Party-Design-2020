@@ -1,5 +1,7 @@
 # Interhouse-Party-Design-2020
-Design of the Venerable House Doctor-Who Themed Interhouse Party
+Design of the Center Console of the Venerable House Doctor-Who Themed Interhouse Party
+
+![Console](https://github.com/kpiper00/Interhouse-Party-Design-2020/blob/main/Console%20Images/IMG_20200229_214943_01.jpg)
 
 The last Saturday of February every year, Venerable House, one of the 8 houses at Caltech, constructs and hosts an interhouse party.
 The theme for the 2020 party was Doctor Who, and the dance platforms were constructed to look similar to the inside of a Tardis. 
