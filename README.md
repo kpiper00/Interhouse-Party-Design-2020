@@ -1,4 +1,4 @@
-# Interhouse-Party-Design-2020
+# Interhouse Party Design 2020
 Design of the Center Console of the Venerable House Doctor-Who Themed Interhouse Party
 
 3D Printing, Laser Cutting, Arduino, and Analog Electronics
